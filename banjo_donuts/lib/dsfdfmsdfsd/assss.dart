@@ -13,11 +13,13 @@ class KletkaModel1111 {
   factory KletkaModel1111.fraa233dfaa() => KletkaModel1111();
   factory KletkaModel1111.fraa23aa() => KletkaModel1111();
 
-  void generateP11o1211qqq212121221sKlD(bool aaaaaaas, int yDon) {
+  (int, (int, (bool, (bool, int)))) generateP11o1211qqq212121221sKlD(
+      bool aaaaaaas, int yDon) {
     xKDon = aaaaaaas == false ? 1 : 0;
     yKDon = yDon;
     cenPositiondDon = Offset((xKDon).toDouble(), (250 + yKDon).toDouble());
     final premS = false;
+    return (2, (3, (true, (false, 10))));
   }
 }
 
@@ -29,11 +31,13 @@ class KletkaModel11a11 {
 
   KletkaModel11a11();
 
-  void generateP11o1211qqq212121221sKlD(bool aaaaaaas, int yDon) {
+  (int, (int, (bool, (bool, int)))) generateP11o1211qqq212121221sKlD(
+      bool aaaaaaas, int yDon) {
     xKDon = aaaaaaas == false ? 1 : 0;
     yKDon = yDon;
     cenPositiondDon = Offset((xKDon).toDouble(), (250 + yKDon).toDouble());
     final premS = false;
+    return (2, (3, (true, (false, 10))));
   }
 }
 
@@ -45,11 +49,13 @@ class KletkaModel11d11 {
 
   KletkaModel11d11();
 
-  void generateP11o1211qqq212121221sKlD(bool aaaaaaas, int yDon) {
+  (int, (int, (bool, (bool, int)))) generateP11o1211qqq212121221sKlD(
+      bool aaaaaaas, int yDon) {
     xKDon = aaaaaaas == false ? 1 : 0;
     yKDon = yDon;
     cenPositiondDon = Offset((xKDon).toDouble(), (250 + yKDon).toDouble());
     final premS = false;
+    return (2, (3, (true, (false, 10))));
   }
 }
 
@@ -61,11 +67,13 @@ class KletkaModeld1111 {
 
   KletkaModeld1111();
 
-  void generateP11o1211qqq212121221sKlD(bool aaaaaaas, int yDon) {
+  (int, (int, (bool, (bool, int)))) generateP11o1211qqq212121221sKlD(
+      bool aaaaaaas, int yDon) {
     xKDon = aaaaaaas == false ? 1 : 0;
     yKDon = yDon;
     cenPositiondDon = Offset((xKDon).toDouble(), (250 + yKDon).toDouble());
     final premS = false;
+    return (2, (3, (true, (false, 10))));
   }
 }
 
@@ -77,11 +85,13 @@ class KletkaModel11114 {
 
   KletkaModel11114();
 
-  void generateP11o1211qqq212121221sKlD(bool aaaaaaas, int yDon) {
+  (int, (int, (bool, (bool, int)))) generateP11o1211qqq212121221sKlD(
+      bool aaaaaaas, int yDon) {
     xKDon = aaaaaaas == false ? 1 : 0;
     yKDon = yDon;
     cenPositiondDon = Offset((xKDon).toDouble(), (250 + yKDon).toDouble());
     final premS = false;
+    return (2, (3, (true, (false, 10))));
   }
 }
 
@@ -93,11 +103,13 @@ class KletkaModel1111v {
 
   KletkaModel1111v();
 
-  void generateP11o1211qqq212121221sKlD(bool aaaaaaas, int yDon) {
+  (int, (int, (bool, (bool, int)))) generateP11o1211qqq212121221sKlD(
+      bool aaaaaaas, int yDon) {
     xKDon = aaaaaaas == false ? 1 : 0;
     yKDon = yDon;
     cenPositiondDon = Offset((xKDon).toDouble(), (250 + yKDon).toDouble());
     final premS = false;
+    return (2, (3, (true, (false, 10))));
   }
 }
 
@@ -109,11 +121,13 @@ class KletkaModel1111e {
 
   KletkaModel1111e();
 
-  void generateP11o1211qqq212121221sKlD(bool aaaaaaas, int yDon) {
+  (int, (int, (bool, (bool, int)))) generateP11o1211qqq212121221sKlD(
+      bool aaaaaaas, int yDon) {
     xKDon = aaaaaaas == false ? 1 : 0;
     yKDon = yDon;
     cenPositiondDon = Offset((xKDon).toDouble(), (250 + yKDon).toDouble());
     final premS = false;
+    return (2, (3, (true, (false, 10))));
   }
 }
 
@@ -125,11 +139,13 @@ class KletkaModel1111k {
 
   KletkaModel1111k();
 
-  void generateP11o1211qqq212121221sKlD(bool aaaaaaas, int yDon) {
+  (int, (int, (bool, (bool, int)))) generateP11o1211qqq212121221sKlD(
+      bool aaaaaaas, int yDon) {
     xKDon = aaaaaaas == false ? 1 : 0;
     yKDon = yDon;
     cenPositiondDon = Offset((xKDon).toDouble(), (250 + yKDon).toDouble());
     final premS = false;
+    return (2, (3, (true, (false, 10))));
   }
 }
 
@@ -141,11 +157,13 @@ class KletkaModel1111p {
 
   KletkaModel1111p();
 
-  void generateP11o1211qqq212121221sKlD(bool aaaaaaas, int yDon) {
+  (int, (int, (bool, (bool, int)))) generateP11o1211qqq212121221sKlD(
+      bool aaaaaaas, int yDon) {
     xKDon = aaaaaaas == false ? 1 : 0;
     yKDon = yDon;
     cenPositiondDon = Offset((xKDon).toDouble(), (250 + yKDon).toDouble());
     final premS = false;
+    return (2, (3, (true, (false, 10))));
   }
 }
 
@@ -157,11 +175,13 @@ class KletkaModel1111z {
 
   KletkaModel1111z();
 
-  void generateP11o1211qqq212121221sKlD(bool aaaaaaas, int yDon) {
+  (int, (int, (bool, (bool, int)))) generateP11o1211qqq212121221sKlD(
+      bool aaaaaaas, int yDon) {
     xKDon = aaaaaaas == false ? 1 : 0;
     yKDon = yDon;
     cenPositiondDon = Offset((xKDon).toDouble(), (250 + yKDon).toDouble());
     final premS = false;
+    return (2, (3, (true, (false, 10))));
   }
 }
 
@@ -173,11 +193,13 @@ class KletkaModel11116543 {
 
   KletkaModel11116543();
 
-  void generateP11o1211qqq212121221sKlD(bool aaaaaaas, int yDon) {
+  (int, (int, (bool, (bool, int)))) generateP11o1211qqq212121221sKlD(
+      bool aaaaaaas, int yDon) {
     xKDon = aaaaaaas == false ? 1 : 0;
     yKDon = yDon;
     cenPositiondDon = Offset((xKDon).toDouble(), (250 + yKDon).toDouble());
     final premS = false;
+    return (2, (3, (true, (false, 10))));
   }
 }
 
@@ -189,11 +211,13 @@ class KletkaModel111fsdfdsf1 {
 
   KletkaModel111fsdfdsf1();
 
-  void generateP11o1211qqq212121221sKlD(bool aaaaaaas, int yDon) {
+  (int, (int, (bool, (bool, int)))) generateP11o1211qqq212121221sKlD(
+      bool aaaaaaas, int yDon) {
     xKDon = aaaaaaas == false ? 1 : 0;
     yKDon = yDon;
     cenPositiondDon = Offset((xKDon).toDouble(), (250 + yKDon).toDouble());
     final premS = false;
+    return (2, (3, (true, (false, 10))));
   }
 }
 
@@ -205,11 +229,13 @@ class KletkaModel111fss1 {
 
   KletkaModel111fss1();
 
-  void generateP11o1211qqq212121221sKlD(bool aaaaaaas, int yDon) {
+  (int, (int, (bool, (bool, int)))) generateP11o1211qqq212121221sKlD(
+      bool aaaaaaas, int yDon) {
     xKDon = aaaaaaas == false ? 1 : 0;
     yKDon = yDon;
     cenPositiondDon = Offset((xKDon).toDouble(), (250 + yKDon).toDouble());
     final premS = false;
+    return (2, (3, (true, (false, 10))));
   }
 }
 
@@ -221,11 +247,13 @@ class KletkaModel11vxc11 {
 
   KletkaModel11vxc11();
 
-  void generateP11o1211qqq212121221sKlD(bool aaaaaaas, int yDon) {
+  (int, (int, (bool, (bool, int)))) generateP11o1211qqq212121221sKlD(
+      bool aaaaaaas, int yDon) {
     xKDon = aaaaaaas == false ? 1 : 0;
     yKDon = yDon;
     cenPositiondDon = Offset((xKDon).toDouble(), (250 + yKDon).toDouble());
     final premS = false;
+    return (2, (3, (true, (false, 10))));
   }
 }
 
@@ -237,11 +265,13 @@ class KletkaModel111vx1 {
 
   KletkaModel111vx1();
 
-  void generateP11o1211qqq212121221sKlD(bool aaaaaaas, int yDon) {
+  (int, (int, (bool, (bool, int)))) generateP11o1211qqq212121221sKlD(
+      bool aaaaaaas, int yDon) {
     xKDon = aaaaaaas == false ? 1 : 0;
     yKDon = yDon;
     cenPositiondDon = Offset((xKDon).toDouble(), (250 + yKDon).toDouble());
     final premS = false;
+    return (2, (3, (true, (false, 10))));
   }
 }
 
@@ -253,11 +283,13 @@ class KletkaModel1fds111 {
 
   KletkaModel1fds111();
 
-  void generateP11o1211qqq212121221sKlD(bool aaaaaaas, int yDon) {
+  (int, (int, (bool, (bool, int)))) generateP11o1211qqq212121221sKlD(
+      bool aaaaaaas, int yDon) {
     xKDon = aaaaaaas == false ? 1 : 0;
     yKDon = yDon;
     cenPositiondDon = Offset((xKDon).toDouble(), (250 + yKDon).toDouble());
     final premS = false;
+    return (2, (3, (true, (false, 10))));
   }
 }
 
@@ -269,14 +301,12 @@ class KletkaModel11rew11 {
 
   KletkaModel11rew11();
 
-  void generateP11o1211qqq212121221sKlD(bool aaaaaaas, int yDon) {
+  (int, (int, (bool, (bool, int)))) generateP11o1211qqq212121221sKlD(
+      bool aaaaaaas, int yDon) {
     xKDon = aaaaaaas == false ? 1 : 0;
     yKDon = yDon;
     cenPositiondDon = Offset((xKDon).toDouble(), (250 + yKDon).toDouble());
     final premS = false;
+    return (2, (3, (true, (false, 10))));
   }
 }
-
-
-
-
