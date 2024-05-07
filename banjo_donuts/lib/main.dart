@@ -10,7 +10,6 @@ void main() async {
   Pomo.poooo();
   await Apphud.start(apiKey: 'app_Srxuhpmvr4gMKqLfDH7Gf1uxEatAXo');
   SystemChrome.setPreferredOrientations([DeviceOrientation.portraitUp]);
-  Pomo.pomo!.setBool('donpr', false);
   runApp(const MyAppDonuts());
 }
 
