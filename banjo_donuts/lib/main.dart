@@ -11,11 +11,11 @@ void main() async {
   await Apphud.start(apiKey: 'app_Srxuhpmvr4gMKqLfDH7Gf1uxEatAXo');
   SystemChrome.setPreferredOrientations([DeviceOrientation.portraitUp]);
   Pomo.pomo!.setBool('donpr', false);
-  runApp(const MyApp());
+  runApp(const MyAppDonuts());
 }
 
-class MyApp extends StatelessWidget {
-  const MyApp({super.key});
+class MyAppDonuts extends StatelessWidget {
+  const MyAppDonuts({super.key});
 
   @override
   Widget build(BuildContext context) {
