@@ -26,11 +26,9 @@ class _DonScrState extends State<DonScr> {
   @override
   void initState() {
     super.initState();
-    WidgetsBinding.instance.addPostFrameCallback((timeStamp) {
-      if (Pomo.pomo!.getBool('donms') ?? true) {
-        Zvuki.goDonMu('ms.mp3');
-      }
-    });
+    if ((Pomo.pomo!.getBool('donms') ?? true) && !Zvuki.musPlDon) {
+      Zvuki.goDonMu('ms.mp3');
+    }
   }
 
   @override
